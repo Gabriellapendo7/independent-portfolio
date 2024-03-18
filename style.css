@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-size: large;
+    background-color: #ffd7e9;
+}
+
+header {
+    background-color: #41549a;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background-color: #ffd7e9;
+    color: #41549a;
+    padding: 20px;
+    text-align: center;
+}
+
+
+.main-section {
+    background-color: #41549a;
+    color: white;
+    height: 200px;
+
+
+}
+
+.side-section {
+    background-color: #41549a;
+    color: white;
+    height: 200px;
+
+}
+
+.side-section2 {
+    background-color: #41549a;
+    color: white;
+    height: 200px;
+}
+
+.topnav a{
+    padding: 14px ;
+    text-align: center;
+   
+
+}
+.bottom-nav a{   
+    color: #ffd7e9;
+}
+
+.bottom-nav {
+    background-color: #41549a;
+    padding: 30px;
+}
+.topnav {
+    display: inline-block;
+    max-width: fit-content;
+
+    
+}
+.topnav a:hover {
+    background-color: #d5d6db;
+    
+}
+.hobbies {
+    background-color: #41549a;
+    color:white;
+}
+img {
+    width: 150px;
+    padding: 5px;
+}
+.Spirit {
+    background-color: #41549a;
+    color: white;
+}
